@@ -1,0 +1,20 @@
+{
+  "name": "helm-api-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kem-team",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "child_process": "^1.0.2",
+    "express": "^4.16.3",
+    "log4js": "^6.2.1",
+    "request": "^2.87.0",
+    "util": "^0.11.0",
+    "uuid": "^7.0.3",
+    "yaml": "^1.10.0"
+  }
+}
